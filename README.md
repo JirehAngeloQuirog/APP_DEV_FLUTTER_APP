@@ -264,7 +264,7 @@ Message types:
 - The ESP32 code includes NTP time synchronization for accurate timestamps
 - The React web app uses Vite as the build tool and development server
 
-## Deployment
+## Deployments
 
 The application is deployed on the following platforms:
 
